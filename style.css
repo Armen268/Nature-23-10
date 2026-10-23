@@ -1,0 +1,35 @@
+
+* {margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./images/images\ \(1\).jpg);
+    color: rgb(235, 236, 237);
+    text-align: center;
+}
+
+header {
+    padding: 30px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 15px;
+}
+
+nav a {
+    color: rgb(226, 226, 226);
+    text-decoration: none;
+}
+
+.btn {
+    color: rgb(245, 245, 245);
+    text-decoration: none;
+    padding: 15px 25px;
+}
+
